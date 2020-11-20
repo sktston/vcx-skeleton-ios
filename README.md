@@ -5,7 +5,7 @@ You can just start to use LibVCX APIs in the project without any issues.
 
 ## Prerequisites
 #### Xcode
-It requires the Xcode 11
+It requires the Xcode 11 or newer
 
 #### Install Vcx framework
 Run `pod install` from the root folder of the project. It's getting the Vcx framework from our private pod. The Vcx framework is written in Objective-C, so the project includes the Objective-C bridging header file ([VcxDemo-Bridging-Header.h](https://github.com/sktston/vcx-skeleton-ios/blob/master/VcxDemo/VcxDemo-Bridging-Header.h)) to expose Objective-C framework in the Swift project. ([Importing Objective-C into Swift](https://developer.apple.com/documentation/swift/imported_c_and_objective-c_apis/importing_objective-c_into_swift))
