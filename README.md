@@ -1,5 +1,5 @@
 # LibVCX Skeleton iOS Project
-This is the iOS skeleton project to use [LibVCX for iOS Wrapper](https://github.com/hyperledger/indy-sdk/tree/master/vcx/wrappers/ios) in your iOS Swift project.
+This is the iOS skeleton project to use [VCX for iOS Wrapper](https://github.com/hyperledger/aries-vcx/tree/master/wrappers/ios) in your iOS Swift project.
 It contains a Podfile that installs the Vcx framework including all necessary dependencies such as `libindy`, `libssl`, `libcrypto`, `libsodium`, and `libzmq`. It also contains some boilerplate code to use LibVCX for iOS Wrapper (Objective-C) in the Swift project.
 You can just start to use LibVCX APIs in the project without any issues.
 

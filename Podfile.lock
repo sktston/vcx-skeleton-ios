@@ -1,16 +1,16 @@
 PODS:
-  - vcx (0.8.0)
+  - vcx (0.13.1)
 
 DEPENDENCIES:
-  - vcx (= 0.8.0)
+  - vcx (= 0.13.1)
 
 SPEC REPOS:
   https://github.com/sktston/Specs.git:
     - vcx
 
 SPEC CHECKSUMS:
-  vcx: 19a86a3e51ee326b1905b917dde07a3d2aeaf0c5
+  vcx: fd656b50cd411086e3a40f000207581215dc248e
 
-PODFILE CHECKSUM: c45388db7acea218d9337d0a6ec2182790fc5d61
+PODFILE CHECKSUM: 830f17884a7b81d7b6364ea12f4227c1800902eb
 
-COCOAPODS: 1.8.0
+COCOAPODS: 1.10.0
