@@ -9,6 +9,6 @@ target 'VcxDemo' do
   use_frameworks!
 
   # Pods for VcxDemo
-  pod 'vcx', '0.13.1'
+  pod 'vcx', '0.14.2'
 
 end
